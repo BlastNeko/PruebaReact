@@ -24,12 +24,6 @@ INSERT INTO tblCities VALUES('Puerto Plata');
 select * from tblCities
 select * from tblEmployee
 
-INSERT INTO tblEmployee VALUES('Steven','Santo Domingo','casa','Hombre');      
-INSERT INTO tblEmployee VALUES('Samuel','La Romana','apartamento','Hombre');
-INSERT INTO tblEmployee VALUES('Maria','Santiago','casa','Mujer');
-INSERT INTO tblEmployee VALUES('Manuel','Puerto Plata','casa','Hombre');
-INSERT INTO tblEmployee VALUES('Angela','Dajabon','apartamento','Mujer')
-
 drop table tblEmployee
 drop table tblCities
 
